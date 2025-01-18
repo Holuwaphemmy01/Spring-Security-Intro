@@ -1,6 +1,4 @@
-package com.example.SpringSecu.students;
-
-import lombok.Data;
+package com.example.SpringSecu.model;
 
 public class Students {
     private int id;
